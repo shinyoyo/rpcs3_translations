@@ -7002,33 +7002,33 @@ Notes:
 <context>
     <name>gs_frame</name>
     <message>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="484"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="492"/>
         <source>Recording saved: %0</source>
         <translation>Enregistrament desat: %0</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="559"/>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="572"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="567"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="580"/>
         <source>Recording not possible</source>
         <translation>Enregistrament no és possible</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="585"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="593"/>
         <source>Recording started</source>
         <translation>Gravació iniciada</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="1116"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="1124"/>
         <source>Screenshot saved: %0</source>
         <translation>Captura de pantalla desada: %0</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="1200"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="1208"/>
         <source>Exit Game?</source>
         <translation>Surt del joc?</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="1201"/>
+        <location filename="rpcs3/rpcs3qt/gs_frame.cpp" line="1209"/>
         <source>Do you really want to exit the game?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
         <translation>Estàs segur que vols sortir del joc?&lt;br&gt;&lt;br&gt;Qualsevol progrés que no s&apos;hagi desat, es perdrà!&lt;br&gt;</translation>
     </message>
@@ -18181,114 +18181,131 @@ Visualització prèvia:
 <context>
     <name>shortcut_settings</name>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="65"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="66"/>
         <source>Start</source>
         <translation>Inicia</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="66"/>
-        <source>Stop</source>
-        <translation>Atura</translation>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="67"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="80"/>
+        <source>Stop/Exit Game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="67"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="68"/>
         <source>Pause</source>
         <translation>Posa en pausa</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="68"/>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="84"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="69"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="86"/>
         <source>Restart</source>
         <translation>Reinicia</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="69"/>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="72"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="70"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="73"/>
         <source>Toggle Fullscreen</source>
         <translation>Canvia a pantalla completa</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="70"/>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="73"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="71"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="74"/>
         <source>Exit Fullscreen</source>
         <translation>Surt de la pantalla completa</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="71"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="72"/>
         <source>Refresh</source>
         <translation>Refrescar</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="74"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="75"/>
         <source>Add Log Mark</source>
         <translation>Afegir una marca al registre</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="75"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="76"/>
         <source>Mouse lock</source>
         <translation>Bloqueja el ratolí</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="76"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="77"/>
         <source>Start/Stop Recording</source>
         <translation>Inicia/Atura la gravació</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="77"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="78"/>
         <source>Screenshot</source>
         <translation>Captura de pantalla</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="78"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="79"/>
         <source>Pause/Play</source>
         <translation>Pausar/Reproduir</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="79"/>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="80"/>
         <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="81"/>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="82"/>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="83"/>
         <source>Savestate</source>
         <translation>Estat desat</translation>
     </message>
     <message>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="82"/>
+        <source>Savestate 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="83"/>
+        <source>Savestate 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="84"/>
+        <source>Savestate 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="85"/>
+        <source>Savestate 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="87"/>
         <source>RSX Capture</source>
         <translation>Captura RSX</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="86"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="88"/>
         <source>Toggle Framelimit</source>
         <translation>Alterna el limitador de fotogrames</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="87"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="89"/>
         <source>Toggle Keyboard</source>
         <translation>Alternar el teclat</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="88"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="90"/>
         <source>Open Home Menu</source>
         <translation>Obre el menú d&apos;inici</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="89"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="91"/>
         <source>Mute/Unmute Audio</source>
         <translation>Activa/Desactiva àudio</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="90"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="92"/>
         <source>Volume Up</source>
         <translation>Apuja el volum</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="91"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="93"/>
         <source>Volume Down</source>
         <translation>Abaixa el volum</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="92"/>
+        <location filename="rpcs3/rpcs3qt/shortcut_settings.cpp" line="94"/>
         <source>Toggle Mouse-based Gyro</source>
         <translation>Alterna moure el giroscopi amb el ratolí</translation>
     </message>

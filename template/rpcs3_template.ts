@@ -6638,33 +6638,33 @@ Notes:
 <context>
     <name>gs_frame</name>
     <message>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="484"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="492"/>
         <source>Recording saved: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="559"/>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="572"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="567"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="580"/>
         <source>Recording not possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="585"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="593"/>
         <source>Recording started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="1116"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="1124"/>
         <source>Screenshot saved: %0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="1200"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="1208"/>
         <source>Exit Game?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="1201"/>
+        <location filename="./rpcs3/rpcs3qt/gs_frame.cpp" line="1209"/>
         <source>Do you really want to exit the game?&lt;br&gt;&lt;br&gt;Any unsaved progress will be lost!&lt;br&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17574,114 +17574,131 @@ Preview:
 <context>
     <name>shortcut_settings</name>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="65"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="66"/>
         <source>Start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="66"/>
-        <source>Stop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="67"/>
-        <source>Pause</source>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="80"/>
+        <source>Stop/Exit Game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="68"/>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="84"/>
-        <source>Restart</source>
+        <source>Pause</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="69"/>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="72"/>
-        <source>Toggle Fullscreen</source>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="86"/>
+        <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="70"/>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="73"/>
-        <source>Exit Fullscreen</source>
+        <source>Toggle Fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="71"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="74"/>
+        <source>Exit Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="72"/>
         <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="74"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="75"/>
         <source>Add Log Mark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="75"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="76"/>
         <source>Mouse lock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="76"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="77"/>
         <source>Start/Stop Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="77"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="78"/>
         <source>Screenshot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="78"/>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="79"/>
         <source>Pause/Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="79"/>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="80"/>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="81"/>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="82"/>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="83"/>
         <source>Savestate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="85"/>
-        <source>RSX Capture</source>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="82"/>
+        <source>Savestate 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="86"/>
-        <source>Toggle Framelimit</source>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="83"/>
+        <source>Savestate 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="84"/>
+        <source>Savestate 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="85"/>
+        <source>Savestate 4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="87"/>
-        <source>Toggle Keyboard</source>
+        <source>RSX Capture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="88"/>
-        <source>Open Home Menu</source>
+        <source>Toggle Framelimit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="89"/>
-        <source>Mute/Unmute Audio</source>
+        <source>Toggle Keyboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="90"/>
-        <source>Volume Up</source>
+        <source>Open Home Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="91"/>
-        <source>Volume Down</source>
+        <source>Mute/Unmute Audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="92"/>
+        <source>Volume Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="93"/>
+        <source>Volume Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="./rpcs3/rpcs3qt/shortcut_settings.cpp" line="94"/>
         <source>Toggle Mouse-based Gyro</source>
         <translation type="unfinished"></translation>
     </message>
