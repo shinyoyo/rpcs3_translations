@@ -2940,67 +2940,67 @@ Möglicherweise wird sie von einer anderen Anwendung blockiert.</translation>
 <context>
     <name>cheat_manager_dialog</name>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="991"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="994"/>
         <source>Error converting value</source>
         <translation>Fehler beim Konvertieren des Werts</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="991"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="994"/>
         <source>Couldn&apos;t convert the search value you typed to the integer type you selected</source>
         <translation>Den eingegebene Suchwert konnte nicht in den ausgewählten Integer-Typ konvertiert werden.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1001"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1004"/>
         <source>Nothing found</source>
         <translation>Nichts gefunden</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1008"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1011"/>
         <source>Too many entries to display (%0)</source>
         <translation>Zu viele Einträge zum Anzeigen (%0)</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1069"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1072"/>
         <source>Unsigned 8 bits</source>
         <translation>8 Bit ohne Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1070"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1073"/>
         <source>Unsigned 16 bits</source>
         <translation>16 Bit ohne Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1071"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1074"/>
         <source>Unsigned 32 bits</source>
         <translation>32 Bit ohne Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1072"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1075"/>
         <source>Unsigned 64 bits</source>
         <translation>64 Bit ohne Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1073"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1076"/>
         <source>Signed 8 bits</source>
         <translation>8 Bit mit Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1074"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1077"/>
         <source>Signed 16 bits</source>
         <translation>16 Bit mit Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1075"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1078"/>
         <source>Signed 32 bits</source>
         <translation>32 Bit mit Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1076"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1079"/>
         <source>Signed 64 bits</source>
         <translation>64 Bit mit Vorzeichen</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1077"/>
+        <location filename="rpcs3/rpcs3qt/cheat_manager.cpp" line="1080"/>
         <source>Float 32 bits</source>
         <translation>32 Bit Float</translation>
     </message>
