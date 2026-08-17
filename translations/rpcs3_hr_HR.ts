@@ -5632,13 +5632,6 @@ Putanja: %0
 </translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="173"/>
-        <source>%0 selected games: %1 Disc Game - %2 not Disc Game
-</source>
-        <translation>%0 odabranih igara: %1 igra s diskom - %2 nije igra s diskom
-</translation>
-    </message>
-    <message>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="176"/>
         <source>
 Disc Game Info:
@@ -5954,6 +5947,12 @@ Vaša će se konfiguracija vratiti na globalne postavke kontrolera.</translation
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1642"/>
         <source>Cancel</source>
         <translation>Poništi</translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="173"/>
+        <source>%0 selected games - Disc: %1 | Other: %2
+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="386"/>
@@ -6968,6 +6967,11 @@ Falling back to local database.
         <location filename="rpcs3/rpcs3qt/game_list_frame.cpp" line="303"/>
         <source>Show Space On Disk</source>
         <translation>Prikaz Prostora Na Disku</translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/game_list_frame.cpp" line="376"/>
+        <source>Game List (%0) - Disc: %1 | HDD: %2 | Other: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19282,6 +19286,11 @@ Za više informacija provjerite zapisnik.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="391"/>
+        <source>&amp;nbsp;&amp;nbsp;&amp;bull; %0 (&lt;a href=&quot;https://github.com/RPCS3/rpcs3/pull/%1&quot;&gt;#%1&lt;/a&gt;): %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="436"/>
         <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="443"/>
         <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="445"/>
@@ -19313,11 +19322,6 @@ Za više informacija provjerite zapisnik.</translation>
         <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="385"/>
         <source>N/A</source>
         <translation>N/A</translation>
-    </message>
-    <message>
-        <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="391"/>
-        <source>&amp;nbsp;&amp;nbsp;&amp;bull; %0: %1 (&lt;a href=&quot;https://github.com/RPCS3/rpcs3/pull/%2&quot;&gt;#%2&lt;/a&gt;)</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/update_manager.cpp" line="395"/>
