@@ -419,7 +419,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1012"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1013"/>
         <source>RPCS3 should never be run from a temporary location!
 Please install RPCS3 in a persistent location.
 Current location:
@@ -430,7 +430,7 @@ Bieżąca lokalizacja:
 %0</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1025"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1026"/>
         <source>RPCS3 should never be run from an archive!
 Please install RPCS3 in a persistent location.
 Current location:
@@ -441,7 +441,7 @@ Bieżąca lokalizacja:
 %0</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1039"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1040"/>
         <source>RPCS3 should never be run from a OneDrive path!
 Please move RPCS3 to a location not synced by OneDrive.
 Current location:
@@ -452,22 +452,22 @@ Bieżąca lokalizacja:
 %0</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1164"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1165"/>
         <source>Invalid command-line arguments!</source>
         <translation>Nieprawidłowe argumenty wiersza poleceń!</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1164"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1165"/>
         <source>Cannot perform multiple installations at the same time!</source>
         <translation>Nie można wykonać kilku instalacji jednocześnie!</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1375"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1376"/>
         <source>Missing command-line arguments!</source>
         <translation>Brak argumentów wiersza poleceń!</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3.cpp" line="1375"/>
+        <location filename="rpcs3/rpcs3.cpp" line="1376"/>
         <source>Cannot run no-gui mode without boot target.
 Terminating...</source>
         <translation>Nie można uruchomić trybu no-gui bez celu rozruchu.
@@ -5818,8 +5818,8 @@ Permanentnie usunąć wybraną (opcjonalnie) zawartość z dysku?
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="640"/>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="664"/>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="733"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1317"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1357"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1340"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1380"/>
         <source>Confirm Removal</source>
         <translation>Potwierdź usunięcie</translation>
     </message>
@@ -5902,7 +5902,7 @@ Użycie dysku przez cache: %0</translation>
     <message>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="720"/>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="761"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1691"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1714"/>
         <source>Warning!</source>
         <translation>Uwaga!</translation>
     </message>
@@ -5920,7 +5920,7 @@ Twoja konfiguracja zostanie przywrócona do globalnej konfiguracji kontrolera.</
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="735"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1357"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1380"/>
         <source>Remove custom gamepad configuration?</source>
         <translation>Usunąć niestandardową konfigurację kontrolera?</translation>
     </message>
@@ -5936,42 +5936,47 @@ Twoja konfiguracja zostanie przywrócona do globalnej konfiguracji kontrolera.</
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1238"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1246"/>
         <source>Confirm Creation</source>
         <translation>Potwierdź utworzenie</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1238"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1246"/>
         <source>Create LLVM cache?</source>
         <translation>Utworzyć cache LLVM?</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1259"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1270"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1250"/>
+        <source>Include PS3 Interface (XMB, or VSH)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1282"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1293"/>
         <source>LLVM Cache Batch Creation</source>
         <translation>Tworzenie grupy cache&apos;y LLVM</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1259"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1282"/>
         <source>No titles found</source>
         <translation>Nie znaleziono tytułów</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1268"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1291"/>
         <source>Creating all LLVM caches</source>
         <translation>Tworzenie wszystkich cache&apos;y LLVM</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="531"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1270"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1340"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1380"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1422"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1464"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1507"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1550"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1593"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1642"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1293"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1363"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1403"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1445"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1487"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1530"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1573"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1616"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1665"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
@@ -6042,169 +6047,169 @@ Integrity check aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1283"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1306"/>
         <source>%0
 Progress: %1/%2 caches compiled</source>
         <translation>%0
 Postęp: %1/%2 cache&apos;y skompilowanych</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1317"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1340"/>
         <source>Remove custom configuration?</source>
         <translation>Usunąć niestandardową&#xa0;konfigurację?</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1336"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1340"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1359"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1363"/>
         <source>Custom Configuration Batch Removal</source>
         <translation>Grupowe usuwanie niestandardowej konfiguracji</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1336"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1376"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1418"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1460"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1503"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1546"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1589"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1636"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1359"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1399"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1441"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1483"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1526"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1569"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1612"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1659"/>
         <source>No files found</source>
         <translation>Nie znaleziono plików</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1340"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1363"/>
         <source>Removing all custom configurations</source>
         <translation>Usuwanie wszystkich niestandardowych konfiguracji</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1345"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1368"/>
         <source>%0/%1 custom configurations cleared</source>
         <translation>Wyczyszczono %0/%1 niestandardowych konfiguracji</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1376"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1380"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1399"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1403"/>
         <source>Custom Gamepad Configuration Batch Removal</source>
         <translation>Grupowe usuwanie niestandardowych konfiguracji kontrolera</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1380"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1403"/>
         <source>Removing all custom gamepad configurations</source>
         <translation>Usuwanie wszystkich niestandardowych konfiguracji kontrolera</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1385"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1408"/>
         <source>%0/%1 custom gamepad configurations cleared</source>
         <translation>Wyczyszczono %0/%1 niestandardowych konfiguracji kontrolera</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1418"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1422"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1441"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1445"/>
         <source>Shader Cache Batch Removal</source>
         <translation>Grupowe usuwanie cache&apos;y shaderów</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1422"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1445"/>
         <source>Removing all shader caches</source>
         <translation>Usuwanie wszystkich cache&apos;y shaderów</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1427"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1450"/>
         <source>%0/%1 shader caches cleared</source>
         <translation>Wyczyszczono %0/%1 cache&apos;y PPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1460"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1464"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1483"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1487"/>
         <source>PPU Cache Batch Removal</source>
         <translation>Grupowe usuwanie cache&apos;y PPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1464"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1487"/>
         <source>Removing all PPU caches</source>
         <translation>Usuwanie wszystkich cache&apos;y PPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1469"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1492"/>
         <source>%0/%1 PPU caches cleared</source>
         <translation>Wyczyszczono %0/%1 cache&apos;y PPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1503"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1507"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1526"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1530"/>
         <source>SPU Cache Batch Removal</source>
         <translation>Grupowe usuwanie cache&apos;y SPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1507"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1530"/>
         <source>Removing all SPU caches</source>
         <translation>Usuwanie wszystkich cache&apos;y SPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1512"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1535"/>
         <source>%0/%1 SPU caches cleared</source>
         <translation>Wyczyszczono %0/%1 cache&apos;y SPU</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1546"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1550"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1569"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1573"/>
         <source>HDD1 Cache Batch Removal</source>
         <translation>Grupowe usuwanie cache&apos;y HDD1</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1550"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1573"/>
         <source>Removing all HDD1 caches</source>
         <translation>Usuwanie wszystkich cache&apos;y HDD1</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1555"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1578"/>
         <source>%0/%1 HDD1 caches cleared</source>
         <translation>Wyczyszczono %0/%1 cache&apos;y HDD1</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1589"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1593"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1612"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1616"/>
         <source>Cache Batch Removal</source>
         <translation>Grupowe usuwanie cache&apos;y</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1593"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1616"/>
         <source>Removing all caches</source>
         <translation>Usuwanie wszystkich cache&apos;y</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1598"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1621"/>
         <source>%0/%1 caches cleared</source>
         <translation>Wyczyszczono %0/%1 cache&apos;y</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1636"/>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1642"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1659"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1665"/>
         <source>Content Batch Removal</source>
         <translation>Grupowe usuwanie zawartości</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1642"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1665"/>
         <source>Removing all contents</source>
         <translation>Usuwanie całej zawartości</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1647"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1670"/>
         <source>%0/%1 contents cleared</source>
         <translation>Wyczyszczono %0/%1 zawartości</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1687"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1710"/>
         <source>Success!</source>
         <translation>Sukces!</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1687"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1710"/>
         <source>Successfully created shortcut(s).</source>
         <translation>Pomyślnie utworzono skróty.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1691"/>
+        <location filename="rpcs3/rpcs3qt/game_list_actions.cpp" line="1714"/>
         <source>Failed to create one or more shortcuts!</source>
         <translation>Nie udało się utworzyć jednego lub więcej skrótów!</translation>
     </message>
@@ -10017,174 +10022,194 @@ Temat:</translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/localized_emu.h" line="330"/>
-        <source>Sort: Game Default</source>
+        <source>Sync trophies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/localized_emu.h" line="331"/>
-        <source>Sort: Not Earned</source>
+        <source>Syncing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/localized_emu.h" line="332"/>
-        <source>Sort: Earned Date</source>
+        <source>Synced!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/localized_emu.h" line="333"/>
-        <source>Sort: Grade</source>
+        <source>Sync failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="rpcs3/rpcs3qt/localized_emu.h" line="334"/>
+        <source>Sort: Game Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="335"/>
+        <source>Sort: Not Earned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="336"/>
+        <source>Sort: Earned Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="337"/>
+        <source>Sort: Grade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="338"/>
         <source>Audio muted</source>
         <comment>Audio</comment>
         <translation>Dźwięk wyciszony</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="335"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="339"/>
         <source>Audio unmuted</source>
         <comment>Audio</comment>
         <translation>Dźwięk odciszony</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="336"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="340"/>
         <source>Volume changed to %0</source>
         <comment>Audio</comment>
         <translation>Głośność zmieniona na %0</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="337"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="341"/>
         <source>Progress:</source>
         <translation>Postęp:</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="338"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="342"/>
         <source>Progress: analyzing...</source>
         <translation>Postęp: analizowanie...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="339"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="343"/>
         <source>remaining</source>
         <translation>pozostało</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="340"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="344"/>
         <source>done</source>
         <translation>ukończono</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="341"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="345"/>
         <source>file</source>
         <translation>plik</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="342"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="346"/>
         <source>module</source>
         <translation>moduł</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="343"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="347"/>
         <source>of</source>
         <translation>z</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="344"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="348"/>
         <source>Please wait</source>
         <translation>Proszę czekać</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="345"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="349"/>
         <source>Stopping. Please wait...</source>
         <translation>Zatrzymywanie. Proszę czekać...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="346"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="350"/>
         <source>Creating savestate. Please wait...</source>
         <translation>Tworzenie zapisu stanu. Proszę czekać...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="347"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="351"/>
         <source>Scanning PPU Executable...</source>
         <translation>Skanowanie pliku wykonywalnego PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="348"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="352"/>
         <source>Analyzing PPU Executable...</source>
         <translation>Analizowanie pliku wykonywalnego PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="349"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="353"/>
         <source>Scanning PPU Modules...</source>
         <translation>Skanowanie modułów PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="350"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="354"/>
         <source>Loading PPU Modules...</source>
         <translation>Ładowanie modułów PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="351"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="355"/>
         <source>Compiling PPU Modules...</source>
         <translation>Kompilowanie modułów PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="352"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="356"/>
         <source>Linking PPU Modules...</source>
         <translation>Łączenie modułów PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="353"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="357"/>
         <source>Applying PPU Code...</source>
         <translation>Stosowanie kodu PPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="354"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="358"/>
         <source>Building SPU Cache...</source>
         <translation>Tworzenie pamięci podręcznej SPU...</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="355"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="359"/>
         <source>Press and hold the START button to resume</source>
         <translation>Naciśnij i przytrzymaj przycisk START, aby wznowić</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="356"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="360"/>
         <source>Resuming...!</source>
         <translation>Wznawianie...!</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="357"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="361"/>
         <source>The PS3 application has likely crashed, you can close it.</source>
         <translation>Aplikacja PS3 prawdopodobnie uległa awarii, możesz ją zamknąć.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="358"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="362"/>
         <source>SaveState failed: Game saving is in progress, wait until finished.</source>
         <translation>Zapis Stanu nie powiódł się: Trwa zapisywanie gry, poczekaj na zakończenie.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="359"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="363"/>
         <source>SaveState failed: VDEC-based video/cutscenes are in order, wait for them to end or enable libvdec.sprx.</source>
         <translation>Zapis Stanu nie powiódł się: VDEC-based film jest odtwarzany, poczekaj aż się zakończy lub włącz libvdec.sprx.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="360"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="364"/>
         <source>SaveState failed: Failed to lock SPU state, enabling SPU-Compatible mode may fix it.</source>
         <translation>Zapis Stanu nie powiódł się: Nie udało się zablokować stanu SPU, włączenie trybu SPU-Compatible może to naprawić.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="361"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="365"/>
         <source>SaveState failed: Failed to lock SPU state, using SPU ASMJIT will fix it.</source>
         <translation>Zapis Stanu nie powiódł się: Nie udało się zablokować stanu SPU, użycie SPU ASMJIT naprawi to.</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="362"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="366"/>
         <source>Invalid</source>
         <translation>Nieprawidłowy</translation>
     </message>
     <message>
-        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="363"/>
+        <location filename="rpcs3/rpcs3qt/localized_emu.h" line="367"/>
         <source>Unknown</source>
         <translation>Nieznane</translation>
     </message>
